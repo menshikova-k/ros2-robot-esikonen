@@ -1,0 +1,23 @@
+# Arduino build artifacts
+build/
+build-*/
+*.hex
+*.elf
+*.eep
+*.map
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Local IDE settings
+.idea/
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
